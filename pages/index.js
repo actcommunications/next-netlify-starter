@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing tessssssssss <code>pages/index.js</code>
+          Get started new the best <a href="https://act.net.id" target="_blank">dedicated internet</a> future
         </p>
       </main>
 
